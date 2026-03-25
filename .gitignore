@@ -1,0 +1,33 @@
+# --- Backend ---
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/uploads/
+backend/vectorstore/
+backend/data/*.db
+backend/*.log
+
+# --- Frontend ---
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.env
+frontend/.env.local
+frontend/*.log
+frontend/npm-debug.log*
+
+# --- OS / Editors ---
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+Thumbs.db
+
+# --- Miscellaneous ---
+.gemini/
+*.bak
+/tmp/

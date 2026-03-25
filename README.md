@@ -1,16 +1,16 @@
-# DocuWise 🧠✨
+# DocuWise 
 
 An AI-powered academic assistant that transforms your PDF documents into an interactive, gamified learning experience. Built with **FastAPI**, **React**, and **LangChain**.
 
 ---
 
-## 🚀 Features (Optimized!)
+## Features (Optimized!)
 
-- **⚡ Ultra-Fast Analysis**: Powered by **PyMuPDF** (10x faster extraction) and **Parallel Async Embedding**.
-- **🛡️ Resilience**: Automatic fallback between Gemini versions and Local Local Embeddings (HuggingFace) if API limits are hit.
-- **✨ Dynamic UI**: Premium dark mode design with "DocuWise" branding and real-time progress tracking.
-- **💬 Q&A Chat**: Ask questions about your document with context-aware answers.
-- **📚 AI Flashcards & Quizzes**: Automatically generate study materials from your text.
+- ** Ultra-Fast Analysis**: Powered by **PyMuPDF** (10x faster extraction) and **Parallel Async Embedding**.
+- ** Resilience**: Automatic fallback between Gemini versions and Local Local Embeddings (HuggingFace) if API limits are hit.
+- ** Dynamic UI**: Premium dark mode design with "DocuWise" branding and real-time progress tracking.
+- ** Q&A Chat**: Ask questions about your document with context-aware answers.
+- ** AI Flashcards & Quizzes**: Automatically generate study materials from your text.
 
 ---
 
@@ -29,7 +29,7 @@ An AI-powered academic assistant that transforms your PDF documents into an inte
 
 ---
 
-## 💻 How to Run
+## How to Run
 
 ### 1. One-Click Start (Recommended)
 I've created a `start_app.cmd` (or you can run `python run_all.py`) in the root directory. This will start the Backend and Frontend together.

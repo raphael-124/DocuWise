@@ -10,8 +10,8 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 app = FastAPI(
-    title="Intelligent Study Assistant API",
-    description="API for the Intelligent Study Assistant, providing PDF ingestion, semantic search, flashcards, and quizzes.",
+    title="DocuWise API",
+    description="API for DocuWise, providing PDF ingestion, semantic search, flashcards, and quizzes.",
     version="1.0.0"
 )
 

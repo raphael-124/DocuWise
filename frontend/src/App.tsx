@@ -91,7 +91,7 @@ function App() {
                         <div className={`animate-float ${isProcessing ? 'animate-rolling' : ''}`} style={{ marginBottom: '2rem', display: 'inline-flex', padding: '1.5rem', background: 'var(--primary-light)', borderRadius: '2rem' }}>
                             <Sparkles size={48} style={{ color: 'var(--primary)' }} />
                         </div>
-                        <h1 className="text-gradient" style={{ fontSize: 'clamp(2.5rem, 8vw, 4rem)', marginBottom: '1rem', fontWeight: 800 }}>Study AI</h1>
+                        <h1 className="text-gradient" style={{ fontSize: 'clamp(2.5rem, 8vw, 4rem)', marginBottom: '1rem', fontWeight: 800 }}>DocuWise</h1>
                         <p style={{ fontSize: '1.1rem', color: 'var(--text-muted)', marginBottom: '3rem', maxWidth: '600px', marginInline: 'auto' }}>
                             Transform documents into interactive learning tools. Summarize, chat, and test yourself with AI.
                         </p>
@@ -166,7 +166,7 @@ function App() {
                     <div style={{ background: 'var(--primary)', color: 'white', padding: '0.5rem', borderRadius: '0.75rem' }}>
                         <Sparkles size={18} />
                     </div>
-                    <h2 className="text-gradient" style={{ fontSize: '1.25rem', fontWeight: 800, margin: 0 }}>Study AI</h2>
+                    <h2 className="text-gradient" style={{ fontSize: '1.25rem', fontWeight: 800, margin: 0 }}>DocuWise</h2>
                     <div className="document-status-pill hide-mobile">
                         <FolderOpen size={14} />
                         <span style={{ maxWidth: '150px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{filename}</span>

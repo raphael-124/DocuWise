@@ -1,12 +1,14 @@
-# Intelligent Study Assistant 🧠✨
+# DocuWise 🧠✨
 
 An AI-powered academic assistant that transforms your PDF documents into an interactive, gamified learning experience. Built with **FastAPI**, **React**, and **LangChain**.
+
+---
 
 ## 🚀 Features (Optimized!)
 
 - **⚡ Ultra-Fast Analysis**: Powered by **PyMuPDF** (10x faster extraction) and **Parallel Async Embedding**.
 - **🛡️ Resilience**: Automatic fallback between Gemini versions and Local Local Embeddings (HuggingFace) if API limits are hit.
-- **✨ Dynamic UI**: Premium dark mode design with a "Rolling Logo" and real-time progress tracking.
+- **✨ Dynamic UI**: Premium dark mode design with "DocuWise" branding and real-time progress tracking.
 - **💬 Q&A Chat**: Ask questions about your document with context-aware answers.
 - **📚 AI Flashcards & Quizzes**: Automatically generate study materials from your text.
 

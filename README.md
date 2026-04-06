@@ -14,7 +14,7 @@ An AI-powered academic assistant that transforms your PDF documents into an inte
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **Framework**: FastAPI (Python 3.9+)
@@ -52,5 +52,5 @@ npm run dev
 
 ---
 
-## 🎨 Design & Speed
+## Design & Speed
 The application is now optimized for **extreme speed**. Most document analysis happens in parallel, and already-analyzed files will load **instantly** without reprocessing.
